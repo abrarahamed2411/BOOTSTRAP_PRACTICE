@@ -1,0 +1,40 @@
+.header {
+    height: 60px;
+    background-color: red;
+    border: solid 1px black;
+}
+
+.navigation {
+    height: 40x;
+    border: solid 2px black;
+    background-color: indigo;
+}
+
+.banner {
+    height: 100px;
+    border: solid 2px black;
+    background-color: rosybrown;
+}
+
+.quick-posts {
+    height: 100px;
+    border: solid 2px black;
+    background-color: gray;
+}
+
+.article-parent {
+    height: 400px;
+    background-color: blue;
+}
+
+.article {
+    height: 400px;
+    border: solid 2px red;
+    background-color: orangered;
+}
+
+.aside {
+    height: 400px;
+    border: solid 3px khaki;
+    background-color: white;
+}
